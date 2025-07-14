@@ -2,3 +2,4 @@
 /mlruns
 /mlartifacts
 /src/mlruns
+notebooks/catboost_info/
