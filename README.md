@@ -47,7 +47,7 @@ Este projeto demonstra como transformar um problema de churn bancário em uma so
 
 ---
 
-## 🔍 **Insights Transformadores da Análise Exploratória**
+## 🔍 **Análise Exploratória**
 
 ### **1. O Paradoxo dos Produtos** 🎯
 - **Clientes com 1 produto**: 27.7% de churn
