@@ -140,12 +140,6 @@ ROI = (Receita Preservada - Custo Total) ÷ Custo Total
 - **R$ 4,17 milhões em receita preservada anualmente**
 - **ROI de 519%**
 
-### **Por que LightGBM?**
-- Performance sólida e consistente
-- Interpretabilidade para stakeholders
-- Velocidade de treinamento e predição
-- Robustez em validação cruzada
-
 ---
 
 ## 📊 **Resultados de Negócio**
