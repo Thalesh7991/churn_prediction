@@ -31,7 +31,6 @@ Este projeto demonstra como transformar um problema de churn bancário em uma so
 - Análise exploratória inicial
 - Implementação de Random Forest e Logistic Regression
 - **Primeiro cálculo de ROI**: Random Forest gerou 5.19x de retorno
-- Receita preservada: R$ 724.999 vs Custo de retenção: R$ 117.102
 
 ### **Ciclo 2: Feature Engineering Inteligente**
 - Criação de **21 features estratégicas** baseadas em insights de negócio
