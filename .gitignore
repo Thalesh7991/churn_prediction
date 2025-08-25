@@ -3,3 +3,5 @@
 /mlartifacts
 /src/mlruns
 notebooks/catboost_info/
+/env
+/venv
