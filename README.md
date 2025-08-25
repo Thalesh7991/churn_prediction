@@ -2,7 +2,7 @@
 
 ## **Visão Geral do Projeto**
 
-Este projeto demonstra como transformar um problema de churn bancário em uma solução de machine learning que **preserva R$ 4,17 milhões anuais** em receita. Através de uma abordagem cíclica de desenvolvimento, criamos um sistema de predição que identifica clientes em risco de saída com **59% de F1-Score** e **ROI de 519%**.
+Este projeto demonstra como transformar um problema de churn bancário em uma solução de machine learning que **preserva R$ 4,17 milhões anuais** em receita. Através de uma abordagem cíclica de desenvolvimento, criei um sistema de predição que identifica clientes em risco de saída com **59% de F1-Score** e **ROI de 519%**.
 
 ### **Problema de Negócio**
 
