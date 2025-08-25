@@ -49,23 +49,28 @@ Este projeto demonstra como transformar um problema de churn bancário em uma so
 
 ## 🔍 **Análise Exploratória**
 
-### **1. O Paradoxo dos Produtos** 🎯
-- **Clientes com 1 produto**: 27.7% de churn
-- **Clientes com 2 produtos**: 7.6% de churn (4x menor!)
-- **Ação estratégica**: Campanha massiva para migrar clientes de 1 para 2 produtos
+### **1. Perfil Etário e Churn** 🎯
+- **O que descobri:**: Clientes mais velhos apresentam taxa de churn significativamente maior.
 
-### **2. O Paradoxo do Saldo Alto** 💰
+
+- **Interpretação**: Esta descoberta contrariou totalmente minha hipótese inicial de que clientes mais jovens tenderiam a sair mais. Na verdade, identificamos que clientes de maior idade podem estar menos satisfeitos com serviços digitais, podem buscar bancos mais tradicionais ou podem estar em uma fase da vida com menor necessidade de produtos bancários diversificados.
+
+### **2. Saldo e Comportamento de Saída** 💰
 - Clientes com saldos mais altos apresentam **maior churn**
+
 - **Interpretação**: São mais visados pela concorrência
 - **Ação estratégica**: Programa VIP e atendimento personalizado para high-value customers
 
-### **3. A Inatividade como Preditor Forte** ⚠️
-- Clientes inativos têm taxa de churn drasticamente maior
-- **Ação estratégica**: Sistema de alerta precoce e campanhas de reengajamento
+### **3. Número de Produtos Contratados - O Insight Mais Crítico** ⚠️
 
-### **4. O Fator Geográfico** 🌍
-- Alemanha apresenta churn significativamente maior
-- **Ação estratégica**: Estratégias regionalizadas e análise da concorrência local
+- **Clientes com 1 produto**: 27.71% de churn (representam grande parte da base)
+
+- **Clientes com 2 produtos**: 7.58% de churn (menor taxa de churn!)
+
+- **Clientes com 3+ produtos**: Taxas extremamente altas, mas representam menos de 4% da base.
+  
+- **Ação estratégica**: Realizar campanhas de cross-sell para clientes com apenas 1 produto, estimulando adoção de um segundo. Revisar a experiência de clientes com 3 ou mais produtos para evitar frustração.
+
 
 ---
 
