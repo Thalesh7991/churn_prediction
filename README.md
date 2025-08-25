@@ -52,16 +52,21 @@ Este projeto demonstra como transformar um problema de churn bancário em uma so
 ### **1. Perfil Etário e Churn** 🎯
 - **O que descobri:**: Clientes mais velhos apresentam taxa de churn significativamente maior.
 
+![Idade](img/idade.png)
 
 - **Interpretação**: Esta descoberta contrariou totalmente minha hipótese inicial de que clientes mais jovens tenderiam a sair mais. Na verdade, identificamos que clientes de maior idade podem estar menos satisfeitos com serviços digitais, podem buscar bancos mais tradicionais ou podem estar em uma fase da vida com menor necessidade de produtos bancários diversificados.
 
 ### **2. Saldo e Comportamento de Saída** 💰
 - Clientes com saldos mais altos apresentam **maior churn**
 
+  ![Saldo](img/saldo.png)
+
 - **Interpretação**: São mais visados pela concorrência
 - **Ação estratégica**: Programa VIP e atendimento personalizado para high-value customers
 
 ### **3. Número de Produtos Contratados - O Insight Mais Crítico** ⚠️
+
+![Produtos](img/produtos.png)
 
 - **Clientes com 1 produto**: 27.71% de churn (representam grande parte da base)
 
@@ -162,7 +167,6 @@ ROI = (Receita Preservada - Custo Total) ÷ Custo Total
 - **Insights acionáveis** para produto
 - **Segmentação inteligente** de clientes
 - **Predição proativa** vs reativa
-- **Dashboard executivo** com métricas de negócio
 
 ---
 
